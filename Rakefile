@@ -40,6 +40,20 @@ module JB
   end #Path
 end #JB
 
+namespace :rsync do
+  # Usage: rake rsync:dryrun
+  desc "--dry-run rsync"
+  task :dryrun do
+    system('rsync _site/ -avzhe ssh --dry-run --delete --progress paullynch@www.paullynch.org:/home/paullynch/paullynch.org/cookbook')
+  end
+
+  # Usage: rake rsync:live
+  desc "rsync"
+  task :live do
+    system('rsync _site/ -avzhe ssh --delete --progress paullynch@www.paullynch.org:/home/paullynch/paullynch.org/cookbook')
+  end
+end
+
 # Usage: rake post title="A Title" [date="2012-02-09"]
 desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
