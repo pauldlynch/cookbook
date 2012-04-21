@@ -2,6 +2,9 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:title.html
 
+# ignores BASE_PATH unless safe is set !1!
+safe : true
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
@@ -20,7 +23,7 @@ author :
 
 # required for subfolder support when NOT on GitHub
 #baseurl: http://www.paullynch.org/cookbook
-base_url: http://www.paullynch.org/cookbook
+#base_url: http://www.paullynch.org/cookbook
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -59,7 +62,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://www.paullynch.org/cookbook
+  BASE_PATH : http://www.paullynch.org/cookbook/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
