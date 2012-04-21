@@ -3,7 +3,7 @@ layout: post
 title: Boston Baked Beans
 group: recipe
 categories: Sides
-tags: beans
+tags: beans ham
 ---
 
 - 500g/1 lb haricot/navy beans

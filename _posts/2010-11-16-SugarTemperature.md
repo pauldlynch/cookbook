@@ -2,7 +2,7 @@
 layout: post
 title: Sugar Temperature
 group: recipe
-categories: [Sweets,Candy]
+categories: [Sweets,Candy,Misc]
 tags: 
 ---
 

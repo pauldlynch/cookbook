@@ -2,7 +2,7 @@
 layout: post
 title: Marshmallow
 group: recipe
-categories: Sweets
+categories: [Sweets,Candy]
 tags: 
 ---
 

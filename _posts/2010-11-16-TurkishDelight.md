@@ -3,7 +3,7 @@ layout: post
 title: Turkish Delight
 group: recipe
 categories: [Sweets,Candy]
-tags: candy
+tags: 
 ---
 
 - 150ml/5 fl oz water

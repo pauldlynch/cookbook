@@ -1,7 +1,9 @@
-Cookbook
-========
-
-Jekyll based html content for my cookbook recipes.
+---
+layout: page
+title: "About"
+description: ""
+---
+{% include JB/setup %}
 
 I wrote these recipes originally for my son Andrew, when he went away to college.  I extended them when my youngest son, Christopher, went to university, and have added to them when I wanted to, or when I was asked to.
 

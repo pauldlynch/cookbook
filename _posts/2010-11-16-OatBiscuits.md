@@ -3,7 +3,7 @@ layout: post
 title: Oat Biscuits
 group: recipe
 categories: [Biscuits,Cookies]
-tags: 
+tags: oats
 ---
 
 
