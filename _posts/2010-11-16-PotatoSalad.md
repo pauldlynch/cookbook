@@ -2,7 +2,7 @@
 layout: post
 title: Potato Salad
 group: recipe
-categories: 
+categories: Side
 tags: 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Mexican Hot Chocolate
 tagline: from a fridge magnet
 group: recipe
-categories: 
+categories: Drinks
 tags: 
 ---
 

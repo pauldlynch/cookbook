@@ -2,7 +2,7 @@
 layout: post
 title: Basic Bread
 group: recipe
-categories: Bread
+categories: [Bread,Basics]
 tags: 
 ---
 

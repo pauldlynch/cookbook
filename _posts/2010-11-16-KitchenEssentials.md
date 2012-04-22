@@ -2,7 +2,7 @@
 layout: post
 title: Kitchen Essentials
 group: recipe
-categories: Misc
+categories: [Misc,Basics]
 tags: 
 ---
 
