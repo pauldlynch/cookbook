@@ -41,4 +41,4 @@ Beat in one at a time:
 
 - 2 large eggs
 
-Add the flour mixture in 3 parts, alternating with the sour cream mixture in 2 parts (therefore it goes 1/3 flour, 1/2 sour cream, 1/3 flour, 1/2 sour cream, 1/3 flour), beating on low speed and scraping the sides as necessary.  Spread into a greased 13x9 inch pan.  Sprinkle with streusel, starting with the edges.  Bake until a toothpick inserted in the centre comes out clean, about 25 minutes.  Serve warm!  Although it gets better when left for a day.
+Add the flour mixture in 3 parts, alternating with the sour cream mixture in 2 parts (therefore it goes 1/3 flour, 1/2 sour cream, 1/3 flour, 1/2 sour cream, 1/3 flour), beating on low speed and scraping the sides as necessary.  Spread into a greased and lined 13"x9" pan; the cake is quite delicate, so the lining can be used like a sling to lift it out.  I squeeze the streusel to form small clumps, then sprinkle over the batter, starting with the edges.  Bake until a toothpick inserted in the centre comes out clean, about 25 minutes.  Serve warm!  Although it gets better when left for a day.
