@@ -12,3 +12,8 @@ Good luck!
 Feel free to share this page with anyone.
 
 The dates on the posts for most of the pages are from when I restored from a backup after a web site problem.  The current site is built using [Jekyll](http://jekyllrb.com/) and [Jekyll-Bootstrap](http://jekyllbootstrap.com/); an older version was hosted via my web site and a [WordPress](http://wordpress.org) blog, with [AutoIndex](http://autoindex.sourceforge.net/) used to just list the text files containing the recipes.
+
+Build & deploy instructions:
+
+    jekyll --no-auto --no-server; rake rsync:live
+
