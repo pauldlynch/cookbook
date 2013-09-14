@@ -15,5 +15,10 @@ The dates on the posts for most of the pages are from when I restored from a bac
 
 Build & deploy instructions:
 
-    jekyll --no-auto --no-server; rake rsync:live
+For Jekyll 1.2:
 
+    jekyll build; rake rsync:live
+
+For old, pre-1.0 Jekyll:
+
+    jekyll --no-auto --no-server; rake rsync:live
