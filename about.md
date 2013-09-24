@@ -7,7 +7,7 @@ description: ""
 
 I wrote these recipes originally for my son Andrew, when he went away to college.  I extended them when my youngest son, Christopher, went to university, and have added to them when I wanted to, or when I was asked to.
 
-The first of these are Pages documents shared on [iWork.com](http://iwork.com), and can be viewed, downloaded in various formats and printed; most of them are sitting on this web site. The basic idea is to create a collection of student friendly recipes that are nutritious, cheap to make and simple to prepare, but there may have been some scope creep.
+The first of these are Pages documents that were shared on [iWork.com](http://iwork.com), and can be viewed, downloaded in various formats and printed; most of them are sitting on this web site in both pdf and html formats. The basic idea is to create a collection of student friendly recipes that are nutritious, cheap to make and simple to prepare, but there may have been some scope creep.
 
 Good luck!
 
