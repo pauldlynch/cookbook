@@ -3,19 +3,19 @@ layout: post
 title: "Cottage Pie"
 description: "Enough for one very hungry person, or four dainty eaters."
 category: Main
-tags: 
+tags:
 ---
 {% include JB/setup %}
 
 
-##Equipment
+## Equipment
 
 - 1 medium casserole (I use  pyrex one)
 - 1 largish frying pan (10" is good)
 - 1 medium saucepan
 - 1 potato masher/ricer, or a strong fork at a pinch
 
-##Ingredients
+## Ingredients
 
 - 1 medium onion
 - 500g mince (lean preferred)
@@ -27,7 +27,7 @@ tags:
 
 Slice the onion and soften it in some oil.  Brown the mince and mix with the onion.  Put in the casserole and add the water mixed with marmite.  Boil and mash the potatoes with 1 oz butter, cover the meat mixture with it and dot with remaining butter.  Cook in a medium oven for 40 minutes  at 350C.
 
-##Method
+## Method
 Clean the potatoes and cut out any bad bits.  Cut into chunks and put into cold, salted water in the saucepan and bring to the boil.  There is no need to peel them if the skins and in good condition.
 
 Wile the potatoes are coming to the boil, slice the onion; I like vertical slices, as it makes for more interesting bits of onion than horizontal rings that most people seem to do.  Put into the frying pan with a little oil over a low to medium heat.  Don't use butter, as it is more likely to burn.  Allow to soften, without browning or burning, which will take 5 to 10 minutes.  Put into the casserole.
@@ -40,7 +40,7 @@ Dissolve the marmite in a cup of warm/hot water, and pour over the mince.  Aim t
 
 Cook in an oven for about 40 minutes.
 
-##Variations
+## Variations
 - Use stock instead of marmite, although this may not be an improvement for some people.
 - Add cream to the mash as well as butter.
 - Instead of just onions, soften a mix of finely chopped onion, carrot and celery - which will take a lot longer; allow at least 20 minutes.
@@ -60,4 +60,3 @@ Improved Cottage Pie, based on the above:
 - 2 tbs plain flour
 
 Add the carrots to the onion to soften.  When they are ready, add the tomato puree with the browned mince.  Deglaze the frying pan with the wine and add to the casserole/saucepan.  If you are very careful, brown the flour in the dry frying pan; or just add it to the casserole.  You will need to keep the pan on the heat for an extra 30-40 minutes to allow the ingredients to combine after adding the stock.  Then assemble the cottage pie as normal.
-

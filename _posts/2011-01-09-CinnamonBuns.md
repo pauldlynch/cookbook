@@ -3,7 +3,7 @@ layout: post
 title: Alton Brown Cinnamon Rolls
 group: recipe
 categories: Cakes
-tags: 
+tags:
 ---
 
 - 4 egg yolks
@@ -22,21 +22,20 @@ mix to batter.  Switch to dough hook.  Add remaining flour bar 0.75 cup.  Mix, 2
 
 Dust with flour and knead; leave to rise to doubled: 2 - 2.5 hours.
 
-##Filling: 
+## Filling:
 
 - 1 tbs cinnamon
 - 8 oz light brown sugar
 - pinch salt
 
-Butter 9x13" baking dish.  
+Butter 9x13" baking dish.
 
 Knock down dough and roll to 18x12".  Brush on .75 oz melted butter, leaving 0.5 - 1" border.  Spread the filling, and roll up.
 
 Cut into 12.  Put in dish, prove overnight in fridge.  Leave in oven with steam bath for 30 mins.  Set to 350F, bake 30 mins (190F internal temperature).  Cool.
 
-##Frosting:
+## Frosting:
 
 - 2\.5 oz cream cheese - beat to creamy (30 secs)
 - 3 tbs whole milk, beat
 - 5\.5 oz icing sugar
-

@@ -7,19 +7,19 @@ categories: Basics
 tags: pasta
 ---
 
-##Ingredients
+## Ingredients
 
 - 2 tbs oil
 - 1 tin tomatoes (400g)
 - 1/2 onion
 - 1 clove of garlic
 
-##Equipment
+## Equipment
 
 - spatula
 - medium sized saucepan
 
-##Method
+## Method
 
 This is a sauce mainly for pasta, but it works very well with all sorts of other dishes: on plain boiled rice, with chicken (plain grilled or breaded), fish, pork chops, or with burgers or meat loaf.  I’ll start with the core basic recipe, and suggest a few variations.
 
@@ -27,7 +27,7 @@ Heat the pan and the oil over a low to medium heat, then add the finely chopped 
 
 Serve with pasta.  Excellent over ravioli and tortellini.
 
-##Variations
+## Variations
 
 Add a dessertspoonful of tomato purée.  This gives extra depth of flavour, similar to what happens when you cook the basic sauce for a long time, close to catching.
 

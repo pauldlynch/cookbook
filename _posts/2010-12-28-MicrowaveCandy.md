@@ -3,15 +3,15 @@ layout: post
 title: Microwave Candy
 group: recipe
 categories: [Sweets,Candy]
-tags: 
+tags:
 ---
 
 
 [Harold McGee on Microwave Candy](http://www.nytimes.com/2010/12/22/dining/22curious.html?ref=dining)
 
-##Microwave Nut Brittle
+## Microwave Nut Brittle
 Published: December 21, 2010
- 
+
 Time: 30 to 40 minutes, plus 30 minutes’ cooling
 
 - 2 cups raw nuts or seeds
@@ -29,9 +29,9 @@ Time: 30 to 40 minutes, plus 30 minutes’ cooling
 Yield: About 2 pounds.
 
 
-##Microwave Pralines
+## Microwave Pralines
 Published: December 21, 2010
- 
+
 Time: 30 to 40 minutes, plus 50 minutes’ cooling
 
 - 3 cups pecans
@@ -54,7 +54,7 @@ Time: 30 to 40 minutes, plus 50 minutes’ cooling
 Yield: About 30 pralines.
 
 
-##Microwave Saffron Turkish Delight
+## Microwave Saffron Turkish Delight
 Published: December 21, 2010
 
 Time: About 45 minutes, plus 3 hours’ cooling

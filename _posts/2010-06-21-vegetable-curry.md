@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-##Ingredients
+## Ingredients
 - tbs oil
 - 1 onion, finely chopped
 - 1 garlic clove, finely chopped
@@ -23,12 +23,12 @@ tags: []
 - 2 cups peas
 - 1/2 tbs butter
 
-##Equipment
+## Equipment
 - Large saucepan
 - spatula
 
-##Method
-Heat the oil in the pan on a medium heat, and soften the onion and garlic to a golden colour (5 minutes).  Watch that it doesn’t burn.  
+## Method
+Heat the oil in the pan on a medium heat, and soften the onion and garlic to a golden colour (5 minutes).  Watch that it doesn’t burn.
 
 Add the tomatoes, chili, ginger, coriander, salt, garam masala and tumeric with a splash of water (if needed).  Stir and watch carefully, until the oil separates.  5-10 minutes.
 

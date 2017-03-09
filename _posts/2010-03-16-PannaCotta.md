@@ -3,7 +3,7 @@ layout: post
 title: Panna Cotta
 group: recipe
 categories: Dessert
-tags: 
+tags:
 ---
 
 
@@ -18,13 +18,13 @@ First, soak the gelatine in a couple of tablespoons of cold water for a few minu
 
 Put the warm cream mix in a 1.5 pint dish and chill in the fridge; it will take 1-2 hours to set fully.
 
-##Raspberry Sauce
+## Raspberry Sauce
 
 - 12 oz frozen or fresh raspberries
 - 6 fl oz water
 - 6 oz sugar
 - dash of kirsch
 
-Bring the water and sugar (and kirsch) to the boil until the syrup is fully dissolved.  Take off the heat and cool.  Add half the raspberries; if they are frozen, this will cool the syrup quickly.  Blend in a blender or with a stick blender, then sieve.  Cool the syrup.  
+Bring the water and sugar (and kirsch) to the boil until the syrup is fully dissolved.  Take off the heat and cool.  Add half the raspberries; if they are frozen, this will cool the syrup quickly.  Blend in a blender or with a stick blender, then sieve.  Cool the syrup.
 
 Serve the panna cotta with the raspberry syrup and some whole raspberries.

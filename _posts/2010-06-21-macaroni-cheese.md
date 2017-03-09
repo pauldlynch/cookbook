@@ -7,21 +7,21 @@ tags: [pasta]
 ---
 {% include JB/setup %}
 
-##Ingredients
+## Ingredients
 - 1\.5 cups macaroni (half pint size)
 - a dessertspoon plain white flour
 - same quantity of unsalted butter; can use oil or other fat in a pinch
 - 3/4 pint milk (half litre)
 - 2-4 oz cheese, grated (enough for 3-4 good sized handfuls)
 
-##Equipment
+## Equipment
 - spoon
 - spatula
 - small and large saucepans
 - small/medium Pyrex casserole/dish
 - grater (you can use a potato peeler if stuck for one)
 
-##Method
+## Method
 First, make the cheese sauce.  We do this first because it can sit around for 20 minutes, but the macaroni can't.
 
 Melt the butter over medium heat in a small saucepan.  It should be hot, but not smoking or brown.  Stir in the flour with a wooden spatula, and stir it around for 20 seconds - 2 minutes; the flour needs to be cooked, but not start to brown.

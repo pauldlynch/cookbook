@@ -56,7 +56,7 @@ Mix in the gelatine and fully dissolve.
 
 Pour cream over chocolate and whisk until smooth, approx 30 secs.  Cool for 6-8 minutes.
 
-- 1 cup cream, whisked to soft peaks. 
+- 1 cup cream, whisked to soft peaks.
 
 Fold into chocolate mix, the usual 1/3 then 2/3.
 
@@ -67,7 +67,7 @@ Chill 2 - 2.5 hours.
 Decorate with chocolate flakes.
 
 
-##Shopping List
+## Shopping List
 
 - 14oz bittersweet chocolate (70%), plus extra to grate (400g)
 - 6 tbs unsalted butter (85g)
@@ -83,4 +83,3 @@ Decorate with chocolate flakes.
 - 3/4 tsp gelatine powder
 - 1 tbs water
 - 6 oz white chocolate (150g)
-

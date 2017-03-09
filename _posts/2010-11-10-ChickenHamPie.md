@@ -7,7 +7,7 @@ categories: Main
 tags: chicken ham
 ---
 
-##Ingredients
+## Ingredients
 
 - 1 pack of puff pastry (all butter)
 - 1 roast chicken
@@ -20,12 +20,12 @@ tags: chicken ham
 - small bunch parsley
 - an extra tablespoon milk (glaze)
 
-##Equipment
+## Equipment
 
 - small saucepan (or 2)
 - pie dish or small casserole
 
-##Method
+## Method
 
 Strip the chicken and separate all the meat from the rest - carcass, skin and fat, which you can use to make a stock.  Chop into small bite sized pieces, 1-2 cm size, with the ham, and mix.
 
@@ -39,6 +39,6 @@ Roll out the pastry to cover your pie dishes; about the thickness of a pound coi
 
 Bake in a medium oven for 25 minutes, until the pastry is golden and well puffed.
 
-##Variations
+## Variations
 
-Could try using a small pot of cr&egrave;me fra&icirc;che instead of the white sauce.  It’s OK to use shortcrust pastry.
+Could try using a small pot of cr&egrave;me fra&icirc;che instead of the white sauce.  It’s OK to use shortcrust pastr#y.

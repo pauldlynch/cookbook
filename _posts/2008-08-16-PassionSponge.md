@@ -3,7 +3,7 @@ layout: post
 title: Passion Sponge
 group: recipe
 categories: Cakes
-tags: 
+tags:
 ---
 
 
@@ -20,7 +20,7 @@ Mix the creams, sugar and vanilla.  Add about 2/3 of the fruit pulp.  Spread hal
 Raspberries, or any slightly acidic fruit, work well as a substitute, even when frozen.
 
 
-##All in One Sponge
+## All in One Sponge
 
 - 8 oz self raising flour
 - 2 tsp baking powder
@@ -32,7 +32,7 @@ Raspberries, or any slightly acidic fruit, work well as a substitute, even when 
 Sieve the flour and baking powder.  Add all the remaining ingredients and mix.  Put into 2 8" cake tins, greased and base lined, and bake for 25-35 minutes at 170/180C.  Cool on a cake rack.
 
 
-##Classic Sponge (via James Martin)
+## Classic Sponge (via James Martin)
 
 - 7 oz (200g) softened butter
 - 7 oz (200g) caster sugar
