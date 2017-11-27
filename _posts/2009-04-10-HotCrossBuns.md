@@ -10,13 +10,14 @@ From Delia Smith, modified.
 - 450g bread (or cake) flour
 - 1 packet active yeast
 - 1 tsp salt
-- 1 tsp mixed spice (or more)
-- 65g caster sugar
+- 3 tsp mixed spice
+- 1 tsp cinnamon
+- 50g caster sugar
 - 50g unsalted butter
-- 200 ml warm milk
+- 225 ml warm milk
 - 1 large egg
-- 90g currants/raisin/sultanas
-- 60g cut mixed peel
+- 110g currants/raisin/sultanas
+- 50g cut mixed peel
 
 Mix the yeast in with the milk.  Sift/stir together the flour, salt,
 sugar and spice.  Beat the egg into the milk and make a dough by
@@ -27,7 +28,7 @@ minutes, but could take longer.  Spread it out flat on a floured
 surface, and evenly spread the fruit and peel, then roll up, give a
 couple of turns of kneading, and shape into a ball.
 
-Cover and leave to rise for about 1 hour in a warm place.  If it
+Cover and leave to rise for about 2 hours in a warm place.  If it
 hasn't obviously risen to about double, leave it until it has.  Divide
 into 12 equal sized pieces (of about 80g each), and arrange on a
 greased baking tray.  Spacing should be about one inch between; as
@@ -42,5 +43,5 @@ after a couple of minutes.  Total baking time should be about 15-20
 minutes.  When they are done the tops will have completely darkened,
 to a light/medium caramel colour.
 
-Glaze with 25g sugar dissolved in 525 ml water, brought to a boil to
-make a syrup.
+Glaze with 25g sugar dissolved in 50 ml (2 tbs) water, brought to a
+boil to make a syrup. Do this while they are still warm from the oven.

@@ -23,10 +23,21 @@ For two.
 - juice of 0.5 lime
 - 2 spring onions, sliced thinly
 
-Sauté the chicken pieces whole to barely brown, about 5 mins, then remove the skin (and bones), if you were lucky enough to have some.
+Sauté the chicken pieces whole to barely brown, about 5 minutes.
 
-Coarsely chop (in a food processor) chilis and onion; some chunks remaining are fine.  Remove chicken and sauté the mixture plus spices, garlic and a little salt in a tablespoon of oil until soft - up to about 10 minutes.
+Put the chicken to one side and sauté the chilis and onion plus
+spices, garlic and a little salt in a tablespoon of oil until soft -
+up to about 10 minutes.
 
-In a food processor pulse to smooth half the mix plus half the beans with half the stock.  Put back into the pan with the chicken until chicken is done, about 10-15 minutes (160F, 175F for thighs).  Remove and shred the chicken, put in the remaining beans and the chicken and simmer until thickened slightly.  Add rest of the ingredients (coriander leaves, spring onions, lime juice) and serve.
+In a food processor pulse to smooth half the chili and onion mix plus
+half the beans. Put back into the pan with the stock and chicken until
+the chicken is done, about 10-15 minutes (160F for breast, 175F for
+thighs). Remove and shred the chicken (remove and discard bones and
+skin at this point, if you were lucky enough to have some), put in the
+remaining beans and the chicken and simmer until thickened slightly.
+Garnish with the rest of the ingredients (coriander leaves, spring
+onions, lime juice) and serve.
 
-The chilis above are ideal, but hard to source in the UK, hence the substitutions.  You can use a hand blender instead of the food processor, it is probably going to be more convenient.
+The chilis above are ideal, but hard to source in the UK, hence the
+substitutions.  You can use a hand blender instead of the food
+processor, it could be more convenient.
