@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Gingerbread Cake
+title: Gingerbread
 group: recipe
 categories: Cakes
-tags:
+tags: 
 ---
-
 Modified from Delia's Book of Cakes.
 
 - 12 oz plain flour
@@ -36,7 +35,7 @@ finally the milk/bicarb.  It's ok to use an electric mixer for this,
 especially if the flour has formed lumps in the mix.  The bicarb will
 start reacting as soon as it is added, so leave this to last, and put
 into the tin and the oven as soon as the bicarb mix is in: don't let
-it hang around.  It is  contact with the treacle that causes the
+it hang around.  It is contact with the treacle that causes the
 reaction.
 
 Put into a greased and lined 2 lb loaf tin.  Bake for 75 - 90 minutes
