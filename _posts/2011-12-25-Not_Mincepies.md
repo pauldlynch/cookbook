@@ -39,7 +39,7 @@ Alternate filling is damson or plum jam.  For the mincemeat filling, just combin
 
 For the frangipane, beat the butter and sugar until white and fluffy, then fully beat in the egg and almond extract, then mix in the ground almonds and cornflour.
 
-Put a spoonful of frangipane in each muffin hole and smooth it our to cover the bottom.  Add a smallish spoonful of mincemeat/jam in the middle, then cover with the crumble.  I find that a dessert spoon of frangipane, a teaspoon of mincemeat, and two dessert spoons of crumble come out exactly for my 2 hole muffin tin.
+Put a spoonful of frangipane in each muffin hole and smooth it our to cover the bottom.  Add a smallish spoonful of mincemeat/jam in the middle, then cover with the crumble.  I find that a dessert spoon of frangipane, a teaspoon of mincemeat, and two dessert spoons of crumble come out exactly for my 12 hole muffin tin.
 
 Bake for 20-25 minutes, or until the crumble is lightly browned and the frangipane is clean to a cocktail stick.
 

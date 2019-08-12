@@ -13,7 +13,7 @@ tags:
 - 3oz/85g golden syrup
 - 5 fl oz/150ml milk
 - 12oz/340g plain flour
-- 2 tsp ginger
+- 2 tsp ground ginger
 - 2 tsp mixed spice
 - Pinch salt
 - 4oz/115g demerara sugar
